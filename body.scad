@@ -19,6 +19,6 @@ union() {
     mirror(mirror_x) translate([x_left_edge-1,20,-1]) cube(wheel_well_dimensions);
   }
 
-  mirror([0,0,1]) translate([x_left_edge+9,86,0]) servo_mounts();
-  mirror([0,0,1]) translate([x_right_edge-12,86,0]) servo_mounts();
+  mirror([0,0,1]) translate([x_left_edge+9,85.5,0]) servo_mounts();
+  mirror([0,0,1]) translate([x_right_edge-12,85.5,0]) servo_mounts();
 }
