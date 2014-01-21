@@ -10,6 +10,14 @@
 
 ## 3D Parts
 
+### Print
+
+#### Chassis
+
+![](http://cl.ly/image/222J3E102d3o/content#.png)
+
+### Modules
+
 #### Arduino mount holes
 
 ![](http://cl.ly/image/3v1B0L081N0Z/content#.png)
@@ -21,7 +29,3 @@
 #### Servo mounts
 
 ![](http://cl.ly/image/1a213J1w3m39/content#.png)
-
-#### Chassis
-
-![](http://cl.ly/image/222J3E102d3o/content#.png)
