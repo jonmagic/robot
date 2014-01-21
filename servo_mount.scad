@@ -17,4 +17,9 @@ module servo_mount() {
   }
 }
 
-servo_mount();
+module servo_mounts() {
+  servo_mount();
+  translate([0,-51,0]) mirror([0,1,0]) servo_mount();
+}
+
+servo_mounts();
