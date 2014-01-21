@@ -29,3 +29,7 @@
 #### Servo mounts
 
 ![](http://cl.ly/image/1a213J1w3m39/content#.png)
+
+#### Battery holder
+
+![](http://cl.ly/image/461R2T1m1B3a/content#.png)
