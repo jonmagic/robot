@@ -14,7 +14,7 @@
 
 ![](http://cl.ly/image/3v1B0L081N0Z/content#.png)
 
-#### Sunk screw head
+#### Nut
 
 ![](http://cl.ly/image/0f0M1U1D0n3T/content#.png)
 
